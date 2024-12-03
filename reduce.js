@@ -35,3 +35,6 @@ let largest= num2.reduce((acc,curr)=>{
 });
 
 console.log("largest number is  "+largest);
+
+
+// 
